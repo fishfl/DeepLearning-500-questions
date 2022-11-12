@@ -239,6 +239,8 @@ $$
 
 ### 5.15.2 转置卷积
 
+https://blog.csdn.net/tsyccnh/article/details/87357447?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-87357447-blog-121181904.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-87357447-blog-121181904.pc_relevant_aa&utm_relevant_index=2
+
 图像的deconvolution过程如下：
 
 ![image](img/ch5/5.19.2-5.png)
